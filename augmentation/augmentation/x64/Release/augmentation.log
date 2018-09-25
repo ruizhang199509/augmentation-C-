@@ -1,0 +1,25 @@
+﻿  stdafx.cpp
+  augmentation.cpp
+augmentation.cpp(183): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(184): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(246): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+augmentation.cpp(280): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(300): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(367): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+augmentation.cpp(395): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+augmentation.cpp(458): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+augmentation.cpp(492): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(493): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(501): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(502): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(557): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(558): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(567): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(568): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(627): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+augmentation.cpp(628): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+augmentation.cpp(629): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  All 499 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  augmentation.vcxproj -> F:\augmentation\augmentation\x64\Release\augmentation.exe

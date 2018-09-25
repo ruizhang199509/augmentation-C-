@@ -1,0 +1,128 @@
+﻿  augmentation.cpp
+augmentation.cpp(43): error C2065: “N”: 未声明的标识符
+augmentation.cpp(44): error C2065: “N”: 未声明的标识符
+augmentation.cpp(48): error C2065: “N”: 未声明的标识符
+augmentation.cpp(53): error C2065: “N”: 未声明的标识符
+augmentation.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(111): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(126): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(127): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(138): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(155): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(164): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(167): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(178): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(192): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(210): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(215): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(217): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(218): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(243): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(244): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(303): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(304): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(328): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(381): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(392): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(408): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(435): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(442): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(458): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(469): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(470): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(486): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(497): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(498): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(515): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(526): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(527): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(535): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(536): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(544): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(552): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(560): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(566): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(580): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(581): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(590): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(591): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+augmentation.cpp(599): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(607): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(615): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(621): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(643): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(644): warning C4018: “<”: 有符号/无符号不匹配
+augmentation.cpp(682): error C2061: 语法错误: 标识符“link_type”
+augmentation.cpp(689): error C2679: 二进制“<<”: 没有找到接受“std::string”类型的右操作数的运算符(或没有可接受的转换)
+  E:\新建文件夹\VC\include\ostream(495): note: 可能是“std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)”
+  E:\新建文件夹\VC\include\ostream(475): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)”
+  E:\新建文件夹\VC\include\ostream(455): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)”
+  E:\新建文件夹\VC\include\ostream(435): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)”
+  E:\新建文件夹\VC\include\ostream(415): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)”
+  E:\新建文件夹\VC\include\ostream(395): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)”
+  E:\新建文件夹\VC\include\ostream(375): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)”
+  E:\新建文件夹\VC\include\ostream(355): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)”
+  E:\新建文件夹\VC\include\ostream(335): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)”
+  E:\新建文件夹\VC\include\ostream(315): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)”
+  E:\新建文件夹\VC\include\ostream(290): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)”
+  E:\新建文件夹\VC\include\ostream(270): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)”
+  E:\新建文件夹\VC\include\ostream(236): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)”
+  E:\新建文件夹\VC\include\ostream(216): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)”
+  E:\新建文件夹\VC\include\ostream(209): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))”
+  E:\新建文件夹\VC\include\ostream(202): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))”
+  E:\新建文件夹\VC\include\ostream(196): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))”
+  E:\新建文件夹\VC\include\ostream(1019): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)”
+  E:\新建文件夹\VC\include\ostream(981): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>,std::string>(std::basic_ostream<char,std::char_traits<char>> &&,const _Ty &)”
+          with
+          [
+              _Ty=std::string
+          ]
+  E:\新建文件夹\VC\include\ostream(971): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)”
+  E:\新建文件夹\VC\include\ostream(964): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)”
+  E:\新建文件夹\VC\include\ostream(957): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)”
+  E:\新建文件夹\VC\include\ostream(950): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)”
+  E:\新建文件夹\VC\include\ostream(824): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)”
+  E:\新建文件夹\VC\include\ostream(777): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)”
+  E:\新建文件夹\VC\include\ostream(739): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)”
+  E:\新建文件夹\VC\include\ostream(692): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)”
+  augmentation.cpp(689): note: 尝试匹配参数列表“(std::basic_ostream<char,std::char_traits<char>>, std::string)”时
+augmentation.cpp(712): error C2065: “Link”: 未声明的标识符
+augmentation.cpp(712): error C3861: “node_if_link”: 找不到标识符
+augmentation.cpp(713): error C2065: “Link”: 未声明的标识符
+augmentation.cpp(713): error C2228: “.push_back”的左边必须有类/结构/联合
+augmentation.cpp(714): error C2065: “Link_reverse”: 未声明的标识符
+augmentation.cpp(714): error C2228: “.push_back”的左边必须有类/结构/联合
+augmentation.cpp(728): error C2679: 二进制“<<”: 没有找到接受“std::string”类型的右操作数的运算符(或没有可接受的转换)
+  E:\新建文件夹\VC\include\ostream(495): note: 可能是“std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)”
+  E:\新建文件夹\VC\include\ostream(475): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)”
+  E:\新建文件夹\VC\include\ostream(455): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)”
+  E:\新建文件夹\VC\include\ostream(435): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)”
+  E:\新建文件夹\VC\include\ostream(415): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)”
+  E:\新建文件夹\VC\include\ostream(395): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)”
+  E:\新建文件夹\VC\include\ostream(375): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)”
+  E:\新建文件夹\VC\include\ostream(355): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)”
+  E:\新建文件夹\VC\include\ostream(335): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)”
+  E:\新建文件夹\VC\include\ostream(315): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)”
+  E:\新建文件夹\VC\include\ostream(290): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)”
+  E:\新建文件夹\VC\include\ostream(270): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)”
+  E:\新建文件夹\VC\include\ostream(236): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)”
+  E:\新建文件夹\VC\include\ostream(216): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)”
+  E:\新建文件夹\VC\include\ostream(209): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))”
+  E:\新建文件夹\VC\include\ostream(202): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))”
+  E:\新建文件夹\VC\include\ostream(196): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))”
+  E:\新建文件夹\VC\include\ostream(1019): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)”
+  E:\新建文件夹\VC\include\ostream(981): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>,std::string>(std::basic_ostream<char,std::char_traits<char>> &&,const _Ty &)”
+          with
+          [
+              _Ty=std::string
+          ]
+  E:\新建文件夹\VC\include\ostream(971): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)”
+  E:\新建文件夹\VC\include\ostream(964): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)”
+  E:\新建文件夹\VC\include\ostream(957): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)”
+  E:\新建文件夹\VC\include\ostream(950): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)”
+  E:\新建文件夹\VC\include\ostream(824): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)”
+  E:\新建文件夹\VC\include\ostream(777): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)”
+  E:\新建文件夹\VC\include\ostream(739): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)”
+  E:\新建文件夹\VC\include\ostream(692): note: 或  “std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)”
+  augmentation.cpp(728): note: 尝试匹配参数列表“(std::basic_ostream<char,std::char_traits<char>>, std::string)”时
+augmentation.cpp(755): error C3861: “node_if_link”: 找不到标识符

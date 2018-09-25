@@ -1,0 +1,41 @@
+﻿  stdafx.cpp
+  augmentation.cpp
+f:\augmentation\augmentation\augmentation\augmentation.cpp(66): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(101): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(116): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(117): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(128): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(145): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(154): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(157): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(168): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(180): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\augmentation\augmentation\augmentation\augmentation.cpp(181): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\augmentation\augmentation\augmentation\augmentation.cpp(191): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(192): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(215): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(239): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(240): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(266): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(276): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\augmentation\augmentation\augmentation\augmentation.cpp(296): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\augmentation\augmentation\augmentation\augmentation.cpp(326): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(333): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(349): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(360): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(361): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(377): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(388): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(389): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(406): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(417): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\augmentation\augmentation\augmentation\augmentation.cpp(418): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\augmentation\augmentation\augmentation\augmentation.cpp(427): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\augmentation\augmentation\augmentation\augmentation.cpp(428): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\augmentation\augmentation\augmentation\augmentation.cpp(438): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(446): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(455): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(462): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(487): warning C4018: “<”: 有符号/无符号不匹配
+f:\augmentation\augmentation\augmentation\augmentation.cpp(488): warning C4018: “<”: 有符号/无符号不匹配
+  augmentation.vcxproj -> F:\augmentation\augmentation\Debug\augmentation.exe
